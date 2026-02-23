@@ -23,8 +23,7 @@ The goal was to identify:
 - KPI Cards & Interactive Slicers
 - Time Intelligence Analysis
 
-## 📊 Dashboard Preview
-![Dashboard](Screenshot (2).png)
+
 
 ---
 
